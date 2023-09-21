@@ -4,6 +4,5 @@ Setup Virtual Active Directory Environment in Azure:
   - Develop SIEM-Oriented platform to manage AD's Security
 
 ## Updates on project:
-Almost done with the course, should be able to start the project in 2/3 days
-  - Understanding Azure
-  - Creating Group Resources/vNETs and inserting resources: VMs, Servers, Functions...
+Done with the course, I'll also do the exam ASAP.
+  - composite file for the run (?)
